@@ -8,6 +8,7 @@ public:
     ~Sword();
 
     void print( ) const;
+    void decreaseStrength();
 
 private:
 
